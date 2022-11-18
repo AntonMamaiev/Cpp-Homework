@@ -1,0 +1,5 @@
+﻿  Practice2020.cpp
+C:\Users\Trolo\Desktop\Labs\Practice2020\Practice2020\Practice2020.cpp(342,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Trolo\Desktop\Labs\Practice2020\Practice2020\Practice2020.cpp(354,50): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Trolo\Desktop\Labs\Practice2020\Practice2020\Practice2020.cpp(355,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Practice2020.vcxproj -> C:\Users\Trolo\Desktop\Labs\Practice2020\Debug\Practice2020.exe

@@ -1,0 +1,4 @@
+﻿  Algstrdan1.cpp
+C:\Users\anton_i2sb4ad\Desktop\Лабы\Алг і стр данних\Algstrdan1\Algstrdan1\Algstrdan1.cpp(467,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\anton_i2sb4ad\Desktop\Лабы\Алг і стр данних\Algstrdan1\Algstrdan1\Algstrdan1.cpp(482,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Algstrdan1.vcxproj -> C:\Users\anton_i2sb4ad\Desktop\Лабы\Алг і стр данних\Algstrdan1\Debug\Algstrdan1.exe
